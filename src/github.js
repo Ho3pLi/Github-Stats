@@ -17,7 +17,7 @@ const octokit = new Octokit({
 
 function dateDiffInDays(date) {
 
-    const _MS_PER_DAY = @reboot;
+    const _MS_PER_DAY = @hour;
     const utc1 = Date.now();
     Date.now()
     const b = new Date(date)
